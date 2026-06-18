@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/AdityaSingh-afk143/DSA_Placement_Prep/tree/master/0190-reverse-bits) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/AdityaSingh-afk143/DSA_Placement_Prep/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
