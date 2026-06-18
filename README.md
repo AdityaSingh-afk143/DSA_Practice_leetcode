@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AdityaSingh-afk143/DSA_Placement_Prep/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/AdityaSingh-afk143/DSA_Placement_Prep/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AdityaSingh-afk143/DSA_Placement_Prep/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/AdityaSingh-afk143/DSA_Placement_Prep/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/AdityaSingh-afk143/DSA_Placement_Prep/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/AdityaSingh-afk143/DSA_Placement_Prep/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AdityaSingh-afk143/DSA_Placement_Prep/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AdityaSingh-afk143/DSA_Placement_Prep/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AdityaSingh-afk143/DSA_Placement_Prep/tree/master/0268-missing-number) |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AdityaSingh-afk143/DSA_Placement_Prep/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/AdityaSingh-afk143/DSA_Placement_Prep/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
