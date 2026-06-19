@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AdityaSingh-afk143/DSA_Placement_Prep/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AdityaSingh-afk143/DSA_Placement_Prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AdityaSingh-afk143/DSA_Placement_Prep/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/AdityaSingh-afk143/DSA_Placement_Prep/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/AdityaSingh-afk143/DSA_Placement_Prep/tree/master/1480-running-sum-of-1d-array) |
 ## Bit Manipulation
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AdityaSingh-afk143/DSA_Placement_Prep/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AdityaSingh-afk143/DSA_Placement_Prep/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/AdityaSingh-afk143/DSA_Placement_Prep/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/AdityaSingh-afk143/DSA_Placement_Prep/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
